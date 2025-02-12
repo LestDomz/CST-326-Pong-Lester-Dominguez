@@ -9,6 +9,10 @@ TagManager:
   - Ball
   - LeftScore
   - RightScore
+  - SpeedCube
+  - ShrinkPaddleCube
+  - ShrinkBallCube
+  - FloatingText
   layers:
   - Default
   - TransparentFX
